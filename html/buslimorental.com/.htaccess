@@ -1,0 +1,5 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/n0qvtmirz1ez/app"
+PassengerBaseURI "/."
+PassengerPython "/home/n0qvtmirz1ez/virtualenv/app/3.6/bin/python3.6"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
