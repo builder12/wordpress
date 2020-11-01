@@ -1,0 +1,1576 @@
+{
+  "settings": {
+    "name": "5star mobile site-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "blackamp",
+      "title": "BlackAMP",
+      "styling": {
+        "primaryColor": "#d400fd",
+        "secondaryColor": "#ffde00",
+        "successColor": "#b2ccd2",
+        "infoColor": "#75818d",
+        "warningColor": "#767676",
+        "dangerColor": "#879A9F",
+        "mainFont": "Source Sans Pro",
+        "display1Font": "Tinos",
+        "display1Size": 4.5,
+        "display2Font": "Tinos",
+        "display2Size": 2.2,
+        "display5Font": "Source Sans Pro",
+        "display5Size": 1.8,
+        "display7Font": "Source Sans Pro",
+        "display7Size": 1.1,
+        "display4Font": "Source Sans Pro",
+        "display4Size": "2.0",
+        "isRoundedButtons": true,
+        "isScrollToTopButton": true,
+        "arrowColor": "#d400fd"
+      },
+      "additionalSetColors": [
+        "#0d85fc",
+        "#d400fd",
+        "#ecccf2"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.6",
+    "siteFonts": [],
+    "uniqCompNum": 35,
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://chicagobusrentals.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/30715193-2088637658022385-2422358453337899885-n-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": "<meta name=\"description\"  content=\"Service Airport. Prom Kids Party Bus Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\r\n\r\n<meta name=\"keywords\"  content=\"party bus rental,wedding limo bus rental,chicago michigan wine tours,chicago notre dame tailgates,prom party bus rental,rent a,\" />\r\n<meta name=\"msvalidate.01\" content=\"36ec1b54e1bf42f1871a9e4173fe1414\" />\r\n<meta name=\"p:domain_verify\" content=\"AUrPLdYeiXzJxx3XVN5J5e-2_-zHFPv1VePQ5stEg2Mg7ABH7AAAAAA\" />\r\n<script type=\"application/ld+json\">\r\n        {\r\n          \"@context\": \"http://schema.org\",\r\n          \"@type\": \"WebSite\",\t\t  \"name\": \"5 Star Limo Party Bus Rental Chicago Trolley \",        \"potentialAction\": {\r\n          \"@type\": \"SearchAction\",\r\n          \"target\": \"https://www.5starbusrentals.com/?s={search_term}\",\r\n          \"query-input\": \"required name=search_term\"\r\n        },\t\t  \"url\": \"https://www.5starbusrentals.com/\"\r\n        }\r\n</script>\r\n\r\n<meta name=\"geo.region\" content=\"US-IL\" />\r\n<meta name=\"geo.placename\" content=\"Plainfield\" />\r\n<meta name=\"geo.position\" content=\"41.575934;-88.243443\" />\r\n<meta name=\"ICBM\" content=\"41.575934, -88.243443\" />\r\n<meta property=\"og:title\" content=\"#1 Wedding Party Bus Rental Chicago Limo Trolley Cheap Limo Rental\" />\r\n<meta property=\"og:type\" content=\"website\" />\r\n<meta property=\"og:url\" content=\"https://www.5starbusrentals.com/\" />\r\n<meta property=\"og:image\" content=\"https://www.5starbusrentals.com/wp-content/uploads/2018/08/BIRU-WP-20180810T170840GMT-0500.jpg\" />\r\n<meta property=\"og:image:width\" content=\"600\" />\r\n<meta property=\"og:image:height\" content=\"400\" />\r\n<meta property=\"og:site_name\" content=\"5 Star Limo Party Bus Rental Chicago Trolley\" />\r\n<meta property=\"fb:admins\" content=\"51857373\" />\r\n<meta property=\"fb:app_id\" content=\"1443479255772211\" />\r\n<meta property=\"og:description\" content=\"Service Airport. Prom Kids Party Bus Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\r\n<meta name=\"twitter:card\" content=\"summary\" />\r\n<meta name=\"twitter:site\" content=\"@5starlimo4u\" />\r\n<meta name=\"twitter:creator\" content=\"@5starlimo4u\" />\r\n<meta name=\"twitter:domain\" content=\"https://www.5starbusrentals.com\" />\r\n<meta name=\"twitter:title\" content=\"#1 Wedding Party Bus Rental Chicago Limo Trolley Cheap Limo Rental\" />\r\n<meta name=\"twitter:description\" content=\"Service Airport. Prom Kids Party Bus Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\r\n<meta name=\"twitter:image\" content=\"/wp-content/uploads/2018/08/BIRU-WP-20180804T160110GMT-0500.jpg\" />\r\n<meta itemprop=\"image\" content=\"https://www.5starbusrentals.com/wp-content/uploads/2018/08/BIRU-WP-20180810T170840GMT-0500.jpg\" />\r\n<script type=\"application/ld+json\">\r\n{ \"@context\" : \"http://schema.org\",\r\n  \"@type\" : \"Organization\",\r\n  \"name\" : \"5 STAR LIMO BUS RENTALS \",\r\n  \"url\" : \"https://www.5starbusrentals.com\",\r\n  \"sameAs\" : [\"https://www.facebook.com/5starlimobusrental/\",\"https://twitter.com/5starlimo4u\",\"https://www.pinterest.com/Chicagobusrentals/\",\"https://www.instagram.com/5tarlimobus/\",\"https://www.flickr.com/photos/chicagolandbusrentals/\"]\r\n}\r\n</script>\r\n\t\t\t<script type=\"text/javascript\" >\r\n\t\t\t\twindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\r\n\t\t\t\tga('create', 'UA-106846489-1', { 'cookieDomain': '5starbusrentals.com','allowLinker': true } );\r\n\t\t\t\t// Plugins\r\n\t\t\t\tga('require', 'linker');ga('linker:autoLink', ['chicagobusrentals.net', 'partybusrentchicago.com', '5tarlimos.com', 'buslimorental.com', 'napervillelimorentals.com', '5tarlimobusrentals.com'] );ga('require', 'displayfeatures');ga('require', 'ec');ga('require', 'linkid', 'linkid.js');ga('set', 'anonymizeIp', true);ga('require', 'outboundLinkTracker');\r\n\t\t\t\tga('send', 'pageview');\r\n\t\t\t</script>\r\n\t\t\t<script async src=\"https://www.google-analytics.com/analytics.js\"></script>\r\n\t\t\t<script async src=\"https://www.5starbusrentals.com/wp-content/plugins/all-in-one-seo-pack/public/js/vendor/autotrack.js\"></script>\r\n\r\n<meta name=\"google-site-verification\" content=\"CwXOuw8ZL9B5mMZnAJnDDeOOy8T7d3a7AxKsrpFRCiQ\" />\r\n\r\n<script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n<amp-analytics type=\"gtag\" data-credentials=\"include\">\r\n<script type=\"application/json\">\r\n{\r\n  \"vars\" : {\r\n    \"gtag_id\": \"<UA-106846489-1>\",\r\n    \"config\" : {\r\n      \"<GA_TRACKING_ID>\": { \"groups\": \"default\" }\r\n    }\r\n  }\r\n}\r\n</script>\r\n</amp-analytics>",
+    "sitemapSwitcher": "on",
+    "сanonical-url": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home- 5 star limo bus rentals",
+        "meta_descr": "Wedding Limo Party Bus Rental Trolley wedding Party Bus Rental Chicago Limo Trolley Cheap Limo Rental 15 passenger Party Bus Limo Rental 40 Passenger Party Bus Rental\n5 star limo bus rentals amp ready site ",
+        "header_custom": "<link rel=\"author\" href=\"https://plus.google.com/u/1/108241847389799473913\" />\n<link rel=\"publisher\" href=\"https://twitter.com/5starlimo4u\" />\n<meta name=\"description\"  content=\"5 star limo Party Bus Rentals and Trolleys. Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n\n<meta name=\"keywords\"  content=\"party bus rental,wedding limo bus rental,chicago michigan wine tours,chicago notre dame tailgates,prom party bus rental,rent a,\" />\n<meta name=\"msvalidate.01\" content=\"36ec1b54e1bf42f1871a9e4173fe1414\" />\n<meta name=\"p:domain_verify\" content=\"AUrPLdYeiXzJxx3XVN5J5e-2_-zHFPv1VePQ5stEg2Mg7ABH7AAAAAA\" />\n<script type=\"application/ld+json\">\n        {\n          \"@context\": \"http://schema.org\",\n          \"@type\": \"WebSite\",\t\t  \"name\": \"5 Star Limo Party Bus Rental Chicago Trolley \",        \"potentialAction\": {\n          \"@type\": \"SearchAction\",\n          \"target\": \"http://5starlimobusrentals.com/?s={search_term}\",\n          \"query-input\": \"required name=search_term\"\n        },\t\t  \"url\": \"http://5starlimobusrentals.com/\"\n        }\n</script>\n\n<meta name=\"geo.region\" content=\"US-IL\" />\n<meta name=\"geo.placename\" content=\"Plainfield\" />\n<meta name=\"geo.position\" content=\"41.575934;-88.243443\" />\n<meta name=\"ICBM\" content=\"41.575934, -88.243443\" />\n<link rel=\"canonical\" href=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:title\" content=\"Wedding Limo Party Bus Service Chicago Trolley Cheap Limo Rental\" />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:url\" content=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2017/11/5star-wedding-party-bus.jpg\" />\n<meta property=\"og:site_name\" content=\"5 Star Limo Party Bus Rental Chicago Trolley\" />\n<meta property=\"fb:admins\" content=\"51857373\" />\n<meta property=\"fb:app_id\" content=\"1443479255772211\" />\n<meta property=\"og:description\" content=\"5 star limo Party Bus Rentals and Trolleys. Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"Twitter.com/5starlimo4u\" />\n<meta name=\"twitter:creator\" content=\"@5starlimo4u\" />\n<meta name=\"twitter:domain\" content=\"twitter/5starlimo4u\" />\n<meta name=\"twitter:title\" content=\"Wedding Limo Party Bus Service Chicago Trolley Cheap Limo Rental\" />\n<meta name=\"twitter:description\" content=\"5 star limo Party Bus Rentals and Trolleys. Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n<meta name=\"twitter:image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2018/12/25-passenger-party-bus-inside.jpg\" />\n<meta itemprop=\"image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2017/11/5star-wedding-party-bus.jpg\" />\n<script type=\"application/ld+json\">\n{ \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Organization\",\n  \"name\" : \"5 STAR LIMO BUS RENTAL \",\n  \"url\" : \"http://5starlimobusrentals.com\",\n  \"sameAs\" : [\"https://www.facebook.com/5tarlimobusrentals/\"]\n}\n</script>\n\t\t\t<script type=\"text/javascript\" >\n\t\t\t\twindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\n\t\t\t\tga('create', 'UA-106846489-1', { 'cookieDomain': '5starlimobus','allowLinker': true } );\n\t\t\t\t// Plugins\n\t\t\t\tga('require', 'linker');ga('linker:autoLink', ['www.5starbusrentals.com', 'chicagobusrentals.net', 'partybusrentchicago.com', '5tarlimos.com', 'buslimorental.com', 'napervillelimorentals.com', '5tarlimobusrentals.com'] );ga('require', 'ec');ga('require', 'linkid', 'linkid.js');ga('set', 'anonymizeIp', true);ga('require', 'outboundLinkTracker');\n\t\t\t\tga('send', 'pageview');\n\t\t\t</script>\n\t\t\t<script async src=\"https://www.google-analytics.com/analytics.js\"></script>\n\t\t\t<script async src=\"http://5starlimobusrentals.com/wp-content/plugins/all-in-one-seo-pack/public/js/vendor/autotrack.js\"></script>\n\t\t\t\t\t<!-- /all in one seo pack -->\n\n<!-- This site is optimized with the Yoast SEO Premium plugin v9.6.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"5 star limo Party Bus Rentals and Trolleys. Wedding Limo party Bus Shuttle Service Airport. Prom Kids Party Bus Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\"/>\n<link rel=\"canonical\" href=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:title\" content=\"Wedding Party Bus Service Chicago Trolley Cheap Limo Rentall wine tours %\" />\n<meta property=\"og:description\" content=\"party bus rental, wedding limo bus rental, chicago michigan wine tours, Notre Dame Tailgate, Prom Party Bus Rental, Party Limo Rental, Trolley Rental Chicago, Cheap Party Bus Rental Chicago Chicago Suburbs. Plainfield Party Bus Rental, Tinley park Limo Rental\" />\n<meta property=\"og:url\" content=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:site_name\" content=\"Party Bus Rental Chicago Wedding Transportation Trolley\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:description\" content=\"5 star limo Party Bus Rentals and Trolleys. Wedding Limo party Bus Shuttle Service Airport. Prom Kids Party Bus Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n<meta name=\"twitter:title\" content=\"Wedding Party Bus Service Chicago Trolley Cheap Limo Rentall wine tours %\" />\n<meta name=\"twitter:image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2014/07/xwedding-5starlimobusrentals-limo-wedding-wire.png.pagespeed.ic_.XezrTcr2uK.png\" />\n<meta name=\"twitter:creator\" content=\"@5starlimo4u\" />\n<script type='application/ld+json'>{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"http://5starlimobusrentals.com/#website\",\"url\":\"http://5starlimobusrentals.com/\",\"name\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"http://5starlimobusrentals.com/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}</script>\n<script type='application/ld+json'>{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"url\":\"http://5starlimobusrentals.com/\",\"sameAs\":[],\"@id\":\"http://5starlimobusrentals.com/#organization\",\"name\":\"5 star limo bus rentals\",\"logo\":\"\"}</script>\n<!-- / Yoast SEO Premium plugin. -->\n\n<link rel='dns-prefetch' href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//s0.wp.com' />\n<link rel='dns-prefetch' href='//p.jwpcdn.com' />\n<link rel='dns-prefetch' href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//s.w.org' />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Party Bus Rental Chicago Wedding Transportation Trolley &raquo; Feed\" href=\"http://5starlimobusrentals.com/feed\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Party Bus Rental Chicago Wedding Transportation Trolley &raquo; Comments Feed\" href=\"http://5starlimobusrentals.com/comments/feed\" />\n\n<!-- Google Tag Manager for WordPress by gtm4wp.com -->\n<script data-cfasync=\"false\" type=\"text/javascript\">//<![CDATA[\n\tdataLayer.push({\"siteID\":\"1\",\"siteName\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"visitorLoginState\":\"logged-in\",\"visitorIP\":\"10.26.52.198\",\"pageTitle\":\"Wedding Party Bus Service Chicago Trolley Cheap Limo Rentall wine tours %\",\"pagePostType\":\"frontpage\",\"pagePostType2\":\"single-page\",\"pagePostDate\":\"July 20, 2018\",\"pagePostDateYear\":\"2018\",\"pagePostDateMonth\":\"07\",\"pagePostDateDay\":\"20\",\"browserName\":\"Chrome\",\"browserVersion\":\"72.0.3626.109\",\"browserEngineName\":\"Blink\",\"browserEngineVersion\":\"\",\"osName\":\"OS X\",\"osVersion\":\"10.14.3\",\"deviceType\":\"desktop\",\"deviceManufacturer\":\"Apple\",\"deviceModel\":\"Macintosh\",\"gtm.whitelist\":[\"d\",\"jsm\",\"c\",\"k\",\"e\",\"j\",\"v\",\"r\",\"f\",\"u\",\"v\"],\"gtm.blacklist\":[\"mpm\",\"m6d\",\"tc\"]});//]]>\n</script>\n<script data-cfasync=\"false\">//<![CDATA[\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W4HZ94R');//]]>\n</script>\n<!-- End Google Tag Manager -->\n<link rel='https://api.w.org/' href='http://5starlimobusrentals.com/wp-json/' />\n<link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"http://5starlimobusrentals.com/xmlrpc.php?rsd\" />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"http://5starlimobusrentals.com/wp-includes/wlwmanifest.xml\" /> \n<meta name=\"generator\" content=\"WordPress 5.0.3\" />\n<link rel='shortlink' href='https://wp.me/P9nYqR-5a' />\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"http://5starlimobusrentals.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2F5starlimobusrentals.com%2F\" />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"http://5starlimobusrentals.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2F5starlimobusrentals.com%2F&#038;format=xml\" />\n<script type=\"application/ld+json\">[{\"@context\":\"http:\\/\\/schema.org\\/\",\"@type\":\"WPHeader\",\"url\":\"http:\\/\\/5starlimobusrentals.com\",\"headline\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"description\":\"Weddings Michigan Wine Tours Notre Dame Tailgates 5 Star Service\"},{\"@context\":\"http:\\/\\/schema.org\\/\",\"@type\":\"WPFooter\",\"url\":\"http:\\/\\/5starlimobusrentals.com\",\"headline\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"description\":\"Weddings Michigan Wine Tours Notre Dame Tailgates 5 Star Service\",\"copyrightYear\":\"2018\"}]</script>\n\n\n\n<!-- This site is optimized with the Schema plugin v1.7.4 - https://schema.press -->\n<script type=\"application/ld+json\">{\"@context\":\"http:\\/\\/schema.org\",\"@type\":\"Organization\",\"@id\":\"#organization\",\"name\":\"5 star Limo Bus Rentals Party Bus Rentals &amp; Trolley\",\"url\":\"http:\\/\\/5starlimobusrentals.com\\/\",\"logo\":\"http:\\/\\/5starlimobusrentals.com\\/wp-content\\/uploads\\/2018\\/05\\/5-star-limo225-big-logo.png\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"telephone\":\"708-272-7188\",\"url\":\"Https:\\/\\/www.5starbusrentals.com\\/contact\",\"contactType\":\"customer support\"},\"sameAs\":[\"https:\\/\\/plus.google.com\\/113616506143623122445\",\"https:\\/\\/www.facebook.com\\/5tarlimobusrentals\\/\",\"Https:\\/\\/Twitter.com\\/5starlimo4u\",\"Https:\\/\\/instagram.com\\/5starlimorentals\",\"Http:\\/\\/Pinterest.com\\/Chicagolandbus\"]}</script>\n\n\t<style type=\"text/css\">\n\t\t/* admin bar */\n\t\t.schema_google_developers a {\n\t\t\tpadding-left:30px !important;\n\t\t\tbackground:\ttransparent url('http://5starlimobusrentals.com/wp-content/plugins/schema/assets/images/admin-bar/google-developers.png') 8px 50% no-repeat !important;\n\t\t}\n\t\t.schema_google_developers a:hover {\n\t\t\tbackground:\ttransparent url('http://5starlimobusrentals.com/wp-content/plugins/schema/assets/images/admin-bar/google-developers-hover.png') 8px 50% no-repeat !important;\n\t\t}\n\t</style>\n<script type=\"text/javascript\">jwplayer.defaults = { \"ph\": 2 };</script>\n            <script type=\"text/javascript\">\n            if (typeof(jwp6AddLoadEvent) == 'undefined') {\n                function jwp6AddLoadEvent(func) {\n                    var oldonload = window.onload;\n                    if (typeof window.onload != 'function') {\n                        window.onload = func;\n                    } else {\n                        window.onload = function() {\n                            if (oldonload) {\n                                oldonload();\n                            }\n                            func();\n                        }\n                    }\n                }\n            }\n            </script>",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "-webkit-transform": "translateX(0%) !important",
+              "transform": "translateX(0%) !important",
+              "display": "block!important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "min-height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem"
+            },
+            ".headerbar": {
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "padding": ".5rem 1rem",
+              "min-height": "70px",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "background": "@menuBgColor",
+              "&.sticky-nav": {
+                "position": "fixed",
+                "z-index": "1000",
+                "width": "100%"
+              }
+            },
+            "button.sticky-but": {
+              "position": "fixed"
+            },
+            ".brand": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "-webkit-align-self": "flex-start",
+              "align-self": "flex-start",
+              "padding-right": "30px",
+              "p": {
+                "margin": "0",
+                "padding": "0"
+              }
+            },
+            ".brand-name": {
+              "color": "#ffffff"
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "top": "50%",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "-webkit-transform": "rotate(45deg)",
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "-webkit-transform": "rotate(-45deg)",
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& .brand-name": {
+                "min-width": "8rem"
+              },
+              "& .builder-sidebar": {
+                "margin-left": "auto",
+                ".sidebar li": {
+                  "-webkit-flex-direction": "row",
+                  "flex-direction": "row",
+                  "-webkit-flex-wrap": "wrap",
+                  "flex-wrap": "wrap",
+                  "a": {
+                    "padding": ".5rem",
+                    "margin": "0"
+                  }
+                }
+              },
+              "& .builder-overlay": {
+                "display": "none !important"
+              }
+            },
+            ".hamburger": {
+              "position": "absolute",
+              "top": "25px",
+              "right": "20px",
+              "margin-left": "auto",
+              "width": "30px",
+              "height": "20px",
+              "background": "none",
+              "border": "none",
+              "cursor": "pointer",
+              "z-index": "1000",
+              "& when (@showLogo)": {
+                "@media (min-width: 768px)": {
+                  "top": "calc(0.5rem ~\"+\" @logoHeight ~\"*\" 0.5px ~\"-\" 10px)"
+                }
+              },
+              "&:focus": {
+                "outline": "none"
+              },
+              "span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "amp-img": {
+              "margin-right": "1rem",
+              "height": "~\"@{logoHeight}px\"",
+              "width": "~\"@{logoWidth}px\"",
+              "@media (max-width: 768px)": {
+                "max-height": "55px",
+                "max-width": "55px"
+              },
+              "img": {
+                "height": "100%",
+                "object-fit": "cover",
+                "object-position": "center"
+              }
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Logo Height\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"55\" step=\"1\">\n        <input type=\"range\" title=\"Logo Width\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"55\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Links\" name=\"showLinks\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected=\"\">Right</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#15181b\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#d400fd\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/30715193-2088637658022385-2422358453337899885-n-110x110.jpg\" layout=\"responsive\" width=\"55\" height=\"55\" alt=\"5 star limo bus rentals logo\" class=\"mobirise-loader\">\n                  <div placeholder=\"\" class=\"placeholder\"></div>\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/30715193-2088637658022385-2422358453337899885-n-110x110.jpg\" alt=\"5 star limo bus rentals logo\" title=\"Logo Header\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\">5 Star Limo Bus Rentals &amp; Trolley&nbsp;</p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showLinks\">\n              <a class=\"text-white\" href=\"https://mobirise.com\">Home</a>\n              <a class=\"text-white\" href=\"https://mobirise.com\">Services</a>\n              <a class=\"text-white\" href=\"https://mobirise.com\">About Us</a>\n            </div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-primary\" href=\"index.html\" data-app-placeholder=\"Type Text\">Home</a> <a class=\"btn btn-sm btn-primary\" href=\"https://www.5starbusrentals.com\" data-app-placeholder=\"Type Text\" target=\"_blank\">Main Site</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_cid": "rck72F7Tx6",
+          "_anchor": "menu1-2",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ecccf2"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "header1",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/midwest-coach-wedding-partybus-30-pass.bathroom-1080x810.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#eaeaea\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-center mbr-bold\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">Party Bus Rental / Trolley Rental</h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-center\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">Prom Party Bus Rental, Wine Tours, &nbsp;Chicago Bus Rentals, Weddings Serivce, Concerts, Tinley Park Shuttles, Joliet Shuttles</h3>\n        <p class=\"mbr-fonts-style mbr-text align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\"></p>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-5\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                5 Star Limo Bus Rentals Moblie App</a></div>\n    </div>\n\n</section>",
+          "_cid": "rck76xUgUh",
+          "_anchor": "header1-3",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card": {
+              "margin-bottom": "20px",
+              "position": "relative",
+              "display": "flex",
+              "-ms-flex-direction": "column",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column",
+              "min-width": "0",
+              "word-wrap": "break-word",
+              "background-clip": "border-box",
+              "border-radius": ".25rem",
+              "width": "100%",
+              "min-height": "1px"
+            },
+            ".card-title": {
+              "margin": "0",
+              "text-align": "center",
+              "color": "#d400fd"
+            },
+            ".card-box": {
+              "padding-top": "2rem"
+            },
+            "amp-img": {
+              "width": "100%"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            }
+          },
+          "_name": "features1",
+          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals-wedding-1-1080x810.png\" layout=\"responsive\" width=\"539.375\" height=\"405\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals-wedding-1-1080x810.png\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><a href=\"http://5starlimobusrentals.com/party-bus-rentals-weddings-proms-concerts?_ga=2.46006243.653856229.1545527872-982971290.1533592476#\" target=\"_blank\">Girls Night Out Transportation</a><div><br></div></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Are you looking for sedan style airport transportation? WE have you covered. Pricing close to Uber and Lyft. Get a professional driver dressed in suit who gets out and loads your bags. Coffee for the early birds compliments of 5 star Limo Party Bus Rentals&nbsp;</p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals.com-coach-wedding-bus-1080x810.jpg\" layout=\"responsive\" height=\"405\" width=\"540\" alt=\"5 star \" class=\"mobirise-loader\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals.com-coach-wedding-bus-1080x810.jpg\" alt=\"5 star \" title=\"Shuttle Bus\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Shuttle Bus Rentals up to 52 Pass</h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><br>Airport Transportation<br>Are you looking for sedan style airport transportation?  WE have you covered.  Pricing close to Uber and Lyft.  Get a professional driver dressed in suit who gets out and loads your bags.  Coffee for the early birds compliments of 5 star Limo Party Bus Rentals m</p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_cid": "rck79JIoof",
+          "_anchor": "features1-4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-title": {
+              "color": "#00deff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#d400fd"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ee9a8d"
+            }
+          },
+          "_name": "header1",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/5-star-limo-party-bus-134-800x534.png\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#eaeaea\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-center mbr-bold\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">Prom 2019</h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-center\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">Carl Sandburg Featured Prom Provider</h3>\n        <p class=\"mbr-fonts-style mbr-text align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">3 years in a row we are hand picked by school district 240 for Prom service at their high schools</p>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-secondary\" href=\"tel:+1-708-272-7188\" data-app-placeholder=\"Type Text\">\n                Call us</a></div>\n    </div>\n\n</section>",
+          "_anchor": "header1-4",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rcCrKhWmct",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".text-block": {
+              "margin": "auto"
+            },
+            "amp-img": {
+              "text-align": "center"
+            }
+          },
+          "_name": "features10",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/img1.wsimg-2-800x679.jpg\" layout=\"responsive\" width=\"539.6170839469809\" height=\"458\" alt=\"5 star trolley picture\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/img1.wsimg-2-800x679.jpg\" alt=\"5 star trolley picture\" title=\"25 passenger trolley rental\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Trolley Rental Party Bus For any Event you Have</h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Wedding Party Bus Rental, Prom Rental, Chicago Michigan Wine Tours, Chicago Notre Dame Tailgate Packages</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rckqUBxLZi",
+          "_anchor": "features10-7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-row": {
+              "margin": "0 15px"
+            },
+            ".card": {
+              "align-items": "center",
+              "@media (max-width: 991px)": {
+                "margin-bottom": "20px"
+              },
+              ".card-img": {
+                "margin-bottom": "1rem",
+                "& when (@showIcons)": {
+                  ".mbr-iconfont": {
+                    "color": "@iconsColor",
+                    "fill": "@iconsColor",
+                    "font-size": "~\"calc(@{iconsSize}rem * 0.42)\"",
+                    "width": "~\"calc(@{iconsSize}rem * 0.42)\"",
+                    "vertical-align": "middle",
+                    "& when ((@iconsSize * 16) > 30)": {
+                      "@media (max-width: 767px)": {
+                        "font-size": "~\"calc(30px * 0.42)\"",
+                        "width": "~\"calc(30px * 0.42)\""
+                      }
+                    }
+                  },
+                  "&.iconfont-wrapper": {
+                    "display": "inline-block",
+                    "width": "100%",
+                    "height": "~\"calc(@{iconsSize}rem * 0.42)\"",
+                    "& when ((@iconsSize * 16) > 30)": {
+                      "@media (max-width: 767px)": {
+                        "font-size": "~\"calc(30px * 0.42)\"",
+                        "width": "30px",
+                        "height": "30px"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            ".mbr-card-title": {
+              "margin": "0",
+              "padding": "0 0 .5rem 0",
+              "color": "#d400fd",
+              "letter-spacing": ".15rem",
+              "text-align": "center"
+            },
+            ".mbr-text": {
+              "margin": "0",
+              "padding": "0"
+            },
+            ".mbr-section-btn": {
+              "padding-top": "0.7rem"
+            }
+          },
+          "_name": "features15",
+          "_customHTML": "<section class=\"features15 mbr-section\" group=\"Articles\" plugins=\"amp-main,font-awesome\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"3\" max=\"12\" step=\"0.5\" value=\"7\" condition=\"showIcons\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#494949\" condition=\"showIcons\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\">\n                <div class=\"iconfont-wrapper card-img\" mbr-if=\"showIcons\">\n                    <span mbr-icon class=\"mbr-iconfont fa fa-map-o\"></span>\n                </div>\n                <h3 class=\"mbr-card-title mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\">\n                    Party Bus Rental</h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>17 Passenger Party Bus</b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\"><a class=\"btn btn-sm btn-black-outline\" href=\"https://5starbusrentals.com\" data-app-placeholder=\"Type Text\">\n                        LEARN MORE\n                    </a></div>             \n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"iconfont-wrapper card-img\" mbr-if=\"showIcons\">\n                    <span mbr-icon class=\"mbr-iconfont fa fa-envelope-open-o\"></span>\n                </div>        \n                <h3 class=\"mbr-card-title mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\">\n                    Party Bus Rental&nbsp;</h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>\n                    25 Passenger Party Bus</b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\"><a class=\"btn btn-sm btn-black-outline\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                        LEARN MORE\n                    </a></div> \n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"iconfont-wrapper card-img\" mbr-if=\"showIcons\">\n                    <span mbr-icon class=\"mbr-iconfont mbri-star\"></span>\n                </div>\n                <h3 class=\"mbr-card-title mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\">Trolley Rental</h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>\n                    25 Passenger Trolley</b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\"><a class=\"btn btn-sm btn-black-outline\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                        LEARN MORE\n                    </a></div>\n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"iconfont-wrapper card-img\" mbr-if=\"showIcons\">\n                    <span mbr-icon class=\"mbr-iconfont mbri-down\"></span>\n                </div>\n                <h3 class=\"mbr-card-title mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\">Party Bus Rental</h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>\n                    40 Passenger Party Bus</b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-buttons data-toolbar=\"-mbrBtnMove\" mbr-theme-style=\"display-4\" mbr-if=\"showButtons\">\n                    <a class=\"btn btn-sm btn-black-outline\" href=\"https://mobirise.com\">\n                        LEARN MORE\n                    </a>\n                </div>\n            </div>\n        \n        </div>\n    </div>\n</section>",
+          "_cid": "rckqVZUwf0",
+          "_anchor": "features15-8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-btn": {
+              "padding-top": "1rem"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": ".5rem"
+            },
+            ".mbr-card-title": {
+              "margin": "0"
+            },
+            ".mbr-text": {
+              "margin": "0"
+            },
+            ".card": {
+              "padding": "1rem",
+              "border-radius": "0",
+              "margin-bottom": "2rem"
+            },
+            ".card1 .mbr-card-title": {
+              "color": "#ffffff"
+            },
+            ".card2 .mbr-card-title": {
+              "color": "#5b686b"
+            },
+            ".card3 .mbr-card-title": {
+              "color": "#232323"
+            },
+            ".card4 .mbr-card-title": {
+              "color": "#ffffff"
+            },
+            ".card1": {
+              "background": "@card1Color"
+            },
+            ".card2": {
+              "background": "@card2Color"
+            },
+            ".card3": {
+              "background": "@card3Color"
+            },
+            ".card4": {
+              "background": "@card4Color"
+            },
+            "@media (min-width: 768px)": {
+              ".card": {
+                "padding": "2rem"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".card": {
+                "margin-bottom": "0"
+              }
+            }
+          },
+          "_name": "features3",
+          "_customHTML": "<section class=\"features3 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Content Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Icons On Hover\" name=\"onHoverColor\" value=\"#ffbc00\" condition=\"swIcon\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" name=\"card1Color\" title=\"Card 1 Color\" value=\"#0d85fc\">\n        <input type=\"color\" name=\"card2Color\" title=\"Card 2 Color\" value=\"#e0e0e0\" condition=\"cardsAmount>1\">\n        <input type=\"color\" name=\"card3Color\" title=\"Card 3 Color\" value=\"#7c858d\" condition=\"cardsAmount>2\">\n        <input type=\"color\" name=\"card4Color\" title=\"Card 4 Color\" value=\"#b2ccd2\" condition=\"cardsAmount>3\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/limobus-party-bus-rentalr-party-bus-limo-transparent-window-1024x447.png\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card1\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-white\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card1>.mbr-card-title,.card1>.mbr-section-btn\">\n                        Featured Service</h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card1>.mbr-text,.card1>.mbr-section-btn\">WEDDING SERVICE<br>Wedding Transportation for the wedding party.  Wedding Transportation for your wedding guest.  Get your guest safely from the hotel to reception<br>Read more info</p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary-outline\" href=\"https://5starbusrentals.com\" data-app-placeholder=\"Type Text\" target=\"_blank\">LEARN MORE</a></div>\n                </div>\n            </div>\n\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card2\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-black\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card2>.mbr-card-title,.card2>.mbr-section-btn\">\n                        Coperate Events</h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card2>.mbr-text,.card2>.mbr-section-btn\">\n                        Public Events, Festivals, Special Occasions<br><br><br><br><br><br>\n                    </p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary-outline\" href=\"https://5starbusrentals.com\" data-app-placeholder=\"Type Text\" target=\"_blank\">LEARN MORE</a></div>\n                </div>\n            </div>\n\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card3\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-black\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card3>.mbr-card-title,.card3>.mbr-section-btn\">Customer Service</h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card3>.mbr-text,.card3>.mbr-section-btn\">PARTY BUS LIMO TROLLEY RENTAL<br>Michelle, Danny are here to help you plan, create, and execute the most cost effective transportation package for your service needs.<br><br><br></p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary-outline\" href=\"https://5starbusrentals.com\" data-app-placeholder=\"Type Text\" target=\"_blank\">LEARN MORE</a></div>\n                </div>\n            </div>\n\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card4\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-white\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card4>.mbr-card-title,.card4>.mbr-section-btn\">\n                        Interaction\n                    </h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card4>.mbr-text,.card4>.mbr-section-btn\">\n                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum adipisci, excepturi laboriosam neque quibusdam culpa. Aliquid, ullam debitis veniam similique ex, cupiditate dolor. Doloremque numquam deleniti doloribus quaerat natus nisi!\n                    </p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                         <a class=\"btn btn-sm btn-white\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rck7aCXyQd",
+          "_anchor": "features3-5",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-title": {
+              "padding-bottom": "1rem"
+            },
+            ".mbr-section-button": {
+              "padding-top": "1.5rem"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section content1\" group=\"Article\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <!-- <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\"> -->\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <h2 mbr-if=\"showTitle\" class=\"align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-1\">\n            Bus Rental Wine Tours</h2>\n        <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-4\">24 People or Less</h3>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">\n            <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n            <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n        </div>\n    </div>\n</section>",
+          "_cid": "rckKMXNotp",
+          "_anchor": "content1-9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card": {
+              "margin-bottom": "20px",
+              "position": "relative",
+              "display": "flex",
+              "-ms-flex-direction": "column",
+              "flex-direction": "column",
+              "min-width": "0",
+              "word-wrap": "break-word",
+              "background-clip": "border-box",
+              "border-radius": ".25rem",
+              "width": "100%",
+              "min-height": "1px"
+            },
+            ".card-title": {
+              "margin": "0",
+              "color": "#d400fd"
+            },
+            ".card-box": {
+              "padding-top": "2rem"
+            },
+            "amp-img": {
+              "width": "100%"
+            }
+          },
+          "_name": "features1",
+          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/mbr-1080x720.jpg\" layout=\"responsive\" width=\"540\" height=\"360\" alt=\"Mobirise\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/mbr-1080x720.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Concert / Sporting Events&nbsp;</h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Concerts in and around Chicago. &nbsp;Party Bus Rentals</p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/mbr-1-1080x720.jpg\" layout=\"responsive\" height=\"360\" width=\"540\" alt=\"Mobirise\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/mbr-1-1080x720.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Chicago Notre Dame Tailgate&nbsp;</h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Party Bus Rental for sporting events ; Chicago Bears , Northwester, ISU Tailgate Packages Notre Dame Tailgate</p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_anchor": "features1-t",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rd0NwLgyqX",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)",
+              ".mbr-section-title": {
+                "padding-bottom": "3rem"
+              }
+            },
+            "background-color": "@bgColor",
+            "& when (@fullWidth)": {
+              ".mbr-row": {
+                "margin": "0"
+              },
+              ".mbr-section-title": {
+                "padding": "1rem 0"
+              }
+            },
+            ".video-block": {
+              "margin": "auto",
+              "width": "~\"@{videoSize}%\"",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".video-block": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-section-title, .video-title": {
+              "color": "#d400fd"
+            }
+          },
+          "_name": "vimeo1",
+          "_customHTML": "<section class=\"vimeo\" group=\"Images & Videos\" plugins=\"amp-main,amp-vimeo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth == false\">\n        <input type=\"text\" title=\"Vimeo Video URL\" name=\"videoUrl\" value>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': fullWidth == false}\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"video-title mbr-col-sm-12 align-center\" mbr-class=\"{'mbr-col-md-6': !fullWidth,\n                             'mbr-col-md-12':fullWidth}\">\n                <h2 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .video-title\">&nbsp;Award Winning Wedding Limo Services Company in Chicago. We offer affordable Wedding Transportation in Chicago. Get an instant online ...</h2>\n            </div>\n            <div class=\"video-block\">\n                <amp-vimeo data-videoid=\"60855585\" layout=\"responsive\" width=\"16\" height=\"9\">\n                    <div placeholder class=\"placeholder\"></div>\n                </amp-vimeo>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "vimeo1-b",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rckL8vnA4A",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".carousel-img": {
+              "width": "100%",
+              "text-align": "center",
+              "display": "-webkit-flex",
+              "justify-content": "center",
+              "align-items": "center",
+              "-webkit-justify-content": "center",
+              "-webkit-align-items": "center"
+            },
+            ".amp-carousel-button": {
+              "width": "50px",
+              "height": "50px",
+              "border-radius": "50%"
+            },
+            "img.mbr-temp": {
+              "width": "auto"
+            },
+            ".mbr-section-title": {
+              "& when not (@showSubTitle)": {
+                "padding-bottom": "2rem"
+              }
+            }
+          },
+          "_name": "slider4",
+          "_customHTML": "<section class=\"slider4 slider\" group=\"Carousels &amp; Sliders\" plugins=\"amp-main,amp-carousel\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen Bg\" name=\"fullScreen\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"autoplay\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Delay\" name=\"delay\" min=\"1000\" max=\"5000\" step=\"1000\" value=\"3000\" condition=\"autoplay\">\n        <select title=\"Images\" name=\"imagesAmount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected=\"\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#a69000\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-2\">\n            Notre Dame Stadium Foot Ball</h2>\n        <h3 mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style mbr-white\" mbr-theme-style=\"display-5\">\n            Lorem ipsum dolor sit amet, consectetur adipisicing elit.\n        </h3>\n        <div class=\"slider-box\" data-autoplay=\"{{autoplay}}\" data-delay=\"{{delay}}\"><amp-carousel class=\"carousel\" height=\"9\" width=\"16\" layout=\"responsive\" type=\"slides\" loop=\"\"><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/notre-dame-tailgate-1872x1404.jpg\" height=\"9\" width=\"12\" layout=\"responsive\" alt=\"Notre Dame Stadium\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/notre-dame-tailgate-1872x1404.jpg\" alt=\"Notre Dame Stadium\" title=\"Notre Dame 5 Star Limo Tailgate\">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/21916145556-0b5efcee6e-k-1872x1404.jpg\" mbr-class=\"{'super-hide': imagesAmount < 2}\" height=\"9\" width=\"12\" layout=\"responsive\" alt=\"Notre Dame Tailgate\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/21916145556-0b5efcee6e-k-1872x1404.jpg\" alt=\"Notre Dame Tailgate\" title=\"Tailgate Photo\">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/5-star-limosbusrentals-notre-dame-tailgatendi-articlepageemailsignup-football-v2-569x288.png\" mbr-class=\"{'super-hide': imagesAmount < 3}\" height=\"9\" width=\"17.78125\" layout=\"responsive\" alt=\"25 Passenger Party Bus \">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5-star-limosbusrentals-notre-dame-tailgatendi-articlepageemailsignup-football-v2-569x288.png\" alt=\"25 Passenger Party Bus \" title=\"25 Passenger Party Bus for Notre Dame Tailgates\">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals.com-coach-wedding-bus-1080x810.jpg\" mbr-class=\"{'super-hide': imagesAmount < 4}\" height=\"9\" width=\"12\" layout=\"responsive\" alt=\"Shuttle Bus \">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals.com-coach-wedding-bus-1080x810.jpg\" alt=\"Shuttle Bus \" title=\"Notre Dame\">\n                </amp-img></amp-carousel>\n            \n        </div>\n        <p class=\"mbr-text align-center mbr-fonts-style mbr-white\" mbr-if=\"showText\" mbr-theme-style=\"display-7\">Chicago to Notre Dame Tailgate Pacakges&nbsp;</p>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-black\" href=\"https://www.5starbusrentals.com/notre-dame-premium-tailgating/premium-tailgating\" data-app-placeholder=\"Type Text\" target=\"_blank\">VIEW MORE</a></div>\n    </div>\n</section>",
+          "_anchor": "slider4-s",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rd0N2geKzm",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-card-title": {
+              "width": "100%"
+            },
+            ".mbr-section-btn": {
+              "padding-top": "1rem"
+            },
+            ".mbr-text": {
+              "margin": "0"
+            },
+            ".card": {
+              "padding": "1rem",
+              "border-radius": "0",
+              "margin-bottom": "2rem",
+              "background": "@cardColor"
+            },
+            "@media (min-width: 768px)": {
+              ".card": {
+                "padding": "3rem 3rem"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".card": {
+                "margin-bottom": "0",
+                "padding": "8rem 8rem"
+              }
+            }
+          },
+          "_name": "features5",
+          "_customHTML": "<section class=\"features5 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Text 2\" name=\"showText2\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" name=\"cardColor\" title=\"Card Color\" value=\"#ffed73\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background7.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card\">\n                <h3 class=\"mbr-fonts-style mbr-card-title align-center mbr-black\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-card-title\">What is AMP?</h3>\n                <p class=\"mbr-text mbr-text1 mbr-fonts-style align-center\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text1\">Tailgate includes: Chicago to Notre Dame Tailgate<br>· Your own private 10′ x 10′ tailgating tent. BBQ propane grill, with extra propane tanks,  bbq tools, 6 Foot Table, 8 chairs.<br>&nbsp; &nbsp;· Stocked bar, 4-12 packs of beer, soda, water, ice, cups and napkins.<br>· Football, and Bean Bag Game and Ipod Accessible Radio<br>. TVs with digital tuners to watch the pre-game activities.<br>For Bears games: Total of an 8 hour limo bus package!!<br><br>3 hours pregame pickup – Can be extended for a early pick up or an after-party for maximum tailgating fun. The Chicago Bears Tailgate Service parking lot opens 4 hours prior to the game.  Add extra hours for a discount price!<br><br> <br><br>31st Lot Info<br>When available, campers and RVs can also park at the 31st St. McCormick Place Lot for $50. First come First Serve <br>Shuttles are available at McCormick Surface Lot. Free shuttles begin running five hours prior to kickoff. The shuttle is accessible from the 31st Street Surface Lot. After the game, shuttles will be stationed at 18th Street to return fans to the McCormick Place Surface Lot.<br>bears parking _information.<br>We have the best Chicago tailgating limo / Chicago party bus in the business. Use The Chicago to Notre Dame Tailgate package for White Sox games tailgate, Chicago Bears games, any sporting or concert in Chicago.  We offer Cubs party bus games trips to Milwaukee, Notre Dame Tailgating, Cubs tailgating, White sox tailgating, concert tailgating,Chicago Bears tailgating<br><br>Assistance in shopping,packing, airport transportation, anything else you may need.</p>\n                <p class=\"mbr-text2 mbr-text mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\" mbr-if=\"showText2\" data-app-selector=\".mbr-text2, .mbr-section-btn\"><a href=\"https://www.flickr.com/photos/chicagolandbusrentals/21714188963\" target=\"_blank\"><b>Flicker Account&nbsp;</b></a></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-black\" href=\"https://www.5starbusrentals.com/notre-dame-premium-tailgating/premium-tailgating\" data-app-placeholder=\"Type Text\">VIEW FULL INFORMATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rd0OrqjpDC",
+          "_anchor": "features5-u",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullWidth)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@fullWidth)": {
+              ".mbr-row": {
+                "margin-right": "0",
+                "margin-left": "0"
+              }
+            },
+            ".card": {
+              "@media (max-width: 991px)": {
+                "margin-bottom": "20px"
+              },
+              "background": "@cardsBg",
+              "border-radius": "0",
+              "display": "flex",
+              "-ms-flex-direction": "column",
+              "flex-direction": "column",
+              "min-width": "0",
+              "width": "100%",
+              "min-height": "1px",
+              "padding": "0 !important",
+              "@media (min-width: 768px)": {
+                "&:not(:first-child)": {
+                  ".card-wrapper": {
+                    "& when (@showLines)": {
+                      "border-left": "1px solid @linesColor",
+                      ".card-img": {
+                        "width": "~\"calc(100% + 1px)\"",
+                        "margin-left": "-1px"
+                      }
+                    }
+                  }
+                },
+                "@media (max-width: 991px)": {
+                  "&:last-child": {
+                    ".card-wrapper": {
+                      "border": "none"
+                    }
+                  }
+                }
+              }
+            },
+            ".card-wrapper": {
+              "height": "100%"
+            },
+            ".card-title": {
+              "margin": "0",
+              "color": "#d400fd"
+            },
+            ".card-box": {
+              "padding": "2rem"
+            },
+            "amp-img": {
+              "width": "100%"
+            },
+            ".mbr-text SPAN": {
+              "color": "#070c12"
+            },
+            ".card-title P": {
+              "color": "#d400fd"
+            }
+          },
+          "_name": "features6",
+          "_customHTML": "<section class=\"features6 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"!fullWidth\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"!fullWidth\">\n\n        <input type=\"checkbox\" title=\"Show Lines\" name=\"showLines\" checked=\"\" condition=\"cardsAmount > 1\">\n        <input type=\"color\" title=\"Lines Color\" name=\"linesColor\" value=\"#cccccc\" condition=\"showLines &amp;&amp; cardsAmount > 1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected=\"\">3</option>\n        </select>\n        <input type=\"color\" title=\"Cards BG Color\" name=\"cardsBg\" value=\"#ffffff\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-6': cardsAmount == 2,\n                             'mbr-col-lg-4': cardsAmount == 3}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals-wedding2-854x570.jpg\" layout=\"responsive\" width=\"427\" height=\"285\" alt=\"Mobirise\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5starlimobusrentals-wedding2-854x570.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\"><p>\n                            Wedding Service&nbsp;&nbsp;&nbsp;&nbsp;</p></h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">From the rehearsal dinner to bridal party pampering, wedding ceremony and wedding reception, the Party Bus Group will be with you every step of the way.<br></p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-6': cardsAmount == 2,\n                             'mbr-col-lg-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/9553729-orig-1-618x1100.jpg\" layout=\"responsive\" height=\"759\" width=\"426.41999999999996\" alt=\"Mobirise\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/9553729-orig-1-618x1100.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Flexibility\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Luxury Transportation, top quality and safe party bus services. ... and customers choose Top Notch Party Bus &amp; Limousine for their Transportation Service.<br></p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-6': cardsAmount == 2,\n                             'mbr-col-lg-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/5-star-tainment-30-passenger-2016-2-tiffany-party-bus-800x561.jpg\" layout=\"responsive\" height=\"299\" width=\"426.3814616755793\" alt=\"Mobirise\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5-star-tainment-30-passenger-2016-2-tiffany-party-bus-800x561.jpg\" alt=\"Mobirise\" title=\"\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Bar Crawls&nbsp;</h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Chicago is a great place to start when it comes to bar hopping. With so ... Make the right choice for your safety by renting a party bus for your bar hopping night in  ...<br></p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_anchor": "features6-c",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rckLb9mlXH",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".carousel-img": {
+              "width": "100%",
+              "text-align": "center"
+            },
+            ".amp-carousel-button": {
+              "width": "50px",
+              "height": "50px",
+              "border-radius": "50%"
+            }
+          },
+          "_name": "slider1",
+          "_customHTML": "<section class=\"slider1 slider\" group=\"Carousels &amp; Sliders\" plugins=\"amp-main,amp-carousel\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen Bg\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <select title=\"Images\" name=\"imagesAmount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected=\"\">6</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#15181b\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"slider-box\"><amp-carousel class=\"carousel\" height=\"300\" layout=\"fixed-height\" type=\"carousel\"><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/5star-wedding-videos-1049-750x422.jpg\" height=\"300\" width=\"533.175355450237\" alt=\"wedding image \">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5star-wedding-videos-1049-750x422.jpg\" alt=\"wedding image \" title=\"Wedding Service \">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/girls-night-900x600.jpg\" mbr-class=\"{'super-hide': imagesAmount < 2}\" height=\"300\" width=\"450\" alt=\"Girls Night Out\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/girls-night-900x600.jpg\" alt=\"Girls Night Out\" title=\"Girls Night Out\">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/5starlimobus116-900x1200.jpg\" mbr-class=\"{'super-hide': imagesAmount < 3}\" height=\"300\" width=\"225\" alt=\"Mobirise\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5starlimobus116-900x1200.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/midwest-coach-limo-shuttle-29-passenger-900x675.jpg\" mbr-class=\"{'super-hide': imagesAmount < 4}\" height=\"300\" width=\"400\" alt=\"Mobirise\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/midwest-coach-limo-shuttle-29-passenger-900x675.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/img-539-900x675.jpg\" mbr-class=\"{'super-hide': imagesAmount < 5}\" height=\"300\" width=\"400\" alt=\"Mobirise\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/img-539-900x675.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img><amp-img class=\"carousel-img mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/5-starlimo-wedding-900x1200.jpg\" mbr-class=\"{'super-hide': imagesAmount < 6}\" height=\"300\" width=\"225\" alt=\"Mobirise\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5-starlimo-wedding-900x1200.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img></amp-carousel>\n            \n        </div>\n    </div>\n</section>",
+          "_anchor": "slider1-6",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rcCrVJte61",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".card": {
+              "padding": "16px",
+              "align-self": "center"
+            },
+            ".mbr-section-subtitle": {
+              "margin": "0"
+            },
+            ".mbr-title": {
+              "color": "#d400fd"
+            }
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\" plugins=\"amp-main\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-md-7\">\n                <h2 class=\"mbr-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-title\">What Our Clients Say<div><br></div></h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\"></h3>\n            </div>\n            <div class=\"card mbr-col-md-5\">\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                    <blockquote>I've worked with some bus and limo services in the past and this was hands down the best experience I've ever had. From timeliness, to cleanliness, to cost this was the best services. I would recommend this company and we will most certainly use again in the future.</blockquote>\n                </div>\n            </div>\n        </div>\n</div></section>",
+          "_anchor": "content8-e",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rcZsCaQ2pK",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-btn": {
+              "padding-top": "1rem"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": ".5rem"
+            },
+            ".mbr-card-title": {
+              "margin": "0"
+            },
+            ".mbr-text": {
+              "margin": "0"
+            },
+            ".card": {
+              "padding": "1rem",
+              "border-radius": "0",
+              "margin-bottom": "2rem"
+            },
+            ".card1 .mbr-card-title": {
+              "color": "#ffffff"
+            },
+            ".card2 .mbr-card-title": {
+              "color": "#5b686b"
+            },
+            ".card3 .mbr-card-title": {
+              "color": "#232323"
+            },
+            ".card4 .mbr-card-title": {
+              "color": "#ffffff"
+            },
+            ".card1": {
+              "background": "@card1Color"
+            },
+            ".card2": {
+              "background": "@card2Color"
+            },
+            ".card3": {
+              "background": "@card3Color"
+            },
+            ".card4": {
+              "background": "@card4Color"
+            },
+            "@media (min-width: 768px)": {
+              ".card": {
+                "padding": "2rem"
+              }
+            },
+            "@media (min-width: 992px)": {
+              ".card": {
+                "margin-bottom": "0"
+              }
+            }
+          },
+          "_name": "features3",
+          "_customHTML": "<section class=\"features3 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Content Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Icons On Hover\" name=\"onHoverColor\" value=\"#ffbc00\" condition=\"swIcon\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n        <input type=\"color\" name=\"card1Color\" title=\"Card 1 Color\" value=\"#0d85fc\">\n        <input type=\"color\" name=\"card2Color\" title=\"Card 2 Color\" value=\"#e0e0e0\" condition=\"cardsAmount>1\">\n        <input type=\"color\" name=\"card3Color\" title=\"Card 3 Color\" value=\"#7c858d\" condition=\"cardsAmount>2\">\n        <input type=\"color\" name=\"card4Color\" title=\"Card 4 Color\" value=\"#b2ccd2\" condition=\"cardsAmount>3\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background7.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card1\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-white\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card1>.mbr-card-title,.card1>.mbr-section-btn\">\n                        Concepting\n                    </h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card1>.mbr-text,.card1>.mbr-section-btn\">WINE TOURS<br>Chicago Michigan Wine Tours, take the 1.5 hour drive in style with our 15 passenger party buses.  Travel to the southwest part of Michigan and experience a Napa Valley look ..<br>Read more info</p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-white\" href=\"https://www.5starbusrentals.com/\" data-app-placeholder=\"Type Text\">LEARN MORE</a></div>\n                </div>\n            </div>\n\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card2\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-black\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card2>.mbr-card-title,.card2>.mbr-section-btn\">\n                        Ui/Ux\n                    </h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card2>.mbr-text,.card2>.mbr-section-btn\">SHUTTLES<br>32 passenger Shuttle Bus Service for weddings, corporate events, church events.  Affordable pricing 100% flexibility.<br>Read more info<br><br></p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-black\" href=\"https://www.5starbusrentals.com/\" data-app-placeholder=\"Type Text\">LEARN MORE</a></div>\n                </div>\n            </div>\n\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card3\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-black\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card3>.mbr-card-title,.card3>.mbr-section-btn\">Visual</h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card3>.mbr-text,.card3>.mbr-section-btn\">CORPORTE TRAVEL<br>Corporate team building Notre Dame Tailgate packages, airport pick up and drop off, Charter Service for your business events in our around Chicago<br>Read more info</p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-black\" href=\"https://www.5starbusrentals.com/\" data-app-placeholder=\"Type Text\">LEARN MORE</a></div>\n                </div>\n            </div>\n\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 row-item\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4}\">\n                <div class=\"card card4\">\n                    <h4 class=\"mbr-fonts-style mbr-card-title align-center mbr-white\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card4>.mbr-card-title,.card4>.mbr-section-btn\">\n                        Interaction\n                    </h4>\n                    <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".card4>.mbr-text,.card4>.mbr-section-btn\">\n                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum adipisci, excepturi laboriosam neque quibusdam culpa. Aliquid, ullam debitis veniam similique ex, cupiditate dolor. Doloremque numquam deleniti doloribus quaerat natus nisi!\n                    </p>\n                    <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                         <a class=\"btn btn-sm btn-white\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rck7b0Jr6j",
+          "_anchor": "features3-6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value",
+              "& when (@gradientBg)": {
+                "background": "linear-gradient(90deg, @bg-value, @bgColor2)"
+              }
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".btn-container": {
+              "display": "flex",
+              "align-items": "center",
+              "justify-content": "center"
+            },
+            "@media (min-width: 768px)": {
+              ".mbr-section-subtitle": {
+                "margin-bottom": "0"
+              }
+            }
+          },
+          "_name": "info1",
+          "_customHTML": "<section class=\"info1\" group=\"Info\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Button\" name=\"showButton\" checked>\n        <input type=\"checkbox\" title=\"Text on Left/Right\" name=\"flexDirection\" condition=\"(showTitle || showSubtitle) && showButton\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#dd4f39\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient Background\" name=\"gradientBg\" checked condition=\"bg.type=='color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"bgColor2\" value=\"#75818d\" condition=\"bg.type=='color' && gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-8\" mbr-if=\"showTitle || showSubtitle\">\n                <h2 class=\"mbr-section-title align-left mbr-fonts-style mbr-bold mbr-white\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Newest and Largest Party Bus in the Midwest</h2>\n                <h3 class=\"mbr-section-subtitle align-left mbr-fonts-style mbr-light mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\"><b>\n                    40 Passenger Tiffany Party Bus</b></h3>\n            </div>\n            <div class=\"btn-container mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-4\" mbr-if=\"showButton\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"https://www.5starbusrentals.com\" data-app-placeholder=\"Type Text\">Book the beast</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "info1-a",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rckL6gZdmf",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-btn": {
+              "margin-bottom": "20px",
+              "width": "100%"
+            },
+            "amp-img": {
+              "width": "100%",
+              "height": "100%",
+              "text-align": "center",
+              "margin": "0 auto",
+              "object-fit": "cover",
+              "object-position": "center center"
+            },
+            "img": {
+              "height": "100%",
+              "object-fit": "cover",
+              "object-position": "center center"
+            },
+            "h1": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "width": "100%"
+            },
+            ".text-col": {
+              "display": "flex",
+              "-webkit-align-items": "flex-end",
+              "align-items": "flex-end",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column",
+              "padding-left": "4rem",
+              "padding-bottom": "2rem"
+            },
+            ".img-col": {
+              "padding": "0"
+            },
+            "div.mbr-text": {
+              "color": "#fff",
+              "max-width": "40%",
+              "padding-top": "6rem",
+              "@media (max-width: 1200px)": {
+                "max-width": "50%"
+              },
+              "p": {
+                "border-right": "2px #efefef solid",
+                "padding-right": "15px"
+              }
+            },
+            ".mbr-text": {
+              "color": "#ffffff",
+              "text-align": "right"
+            },
+            "@media (max-width: 992px)": {
+              "h1": {
+                "text-align": "center !important"
+              },
+              ".mbr-section-btn": {
+                "text-align": "center !important"
+              },
+              "div.mbr-text": {
+                "-webkit-align-self": "center",
+                "align-self": "center",
+                "p": {
+                  "border-right": "none",
+                  "text-align": "center !important",
+                  "padding-right": "0"
+                }
+              },
+              ".text-col": {
+                "padding-left": "0"
+              }
+            },
+            "@media (max-width: 768px)": {
+              "div.mbr-text": {
+                "max-width": "80%"
+              }
+            }
+          },
+          "_name": "header5",
+          "_customHTML": "<section class=\"header5\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n       \n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6 mbr-col-xl-5 text-col\">\n                <div class=\"mbr-text align-right\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                Contact us for a Quote or Transporation IdeaS</p>\n                </div>\n                <h1 class=\"mbr-fonts-style align-center mbr-bold\" mbr-theme-style=\"display-1\" data-app-selector=\"h1, .mbr-section-btn\">Contact us</h1>\n\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://book.mylimobiz.com/v4/5tar\" data-app-placeholder=\"Type Text\">BOOKING FORM</a> <a class=\"btn btn-md btn-success\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">On Line Quote</a> <a class=\"btn btn-md btn-success\" href=\"tel:+1-708-272-7188\" data-app-placeholder=\"Type Text\">Call us</a></div>\n            </div>\n            <div class=\"mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-6 mbr-col-xl-7 img-col\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/mbr-1-1920x1244.jpg\" alt=\"5 star limo rental wedding pic\" width=\"952.2829581993568\" height=\"617\" layout=\"responsive\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <a href=\"Chicago Trolley Rentals.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/mbr-1-1920x1244.jpg\" alt=\"5 star limo rental wedding pic\" title=\"bus party wedding\"></a>\n                </amp-img>\n            </div>\n        </div>\n</section>",
+          "_anchor": "header5-r",
+          "_isUserblock": true,
+          "_sourceTheme": "blackamp",
+          "_cid": "rd0IRxh8Rm",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".foot-menu": {
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap",
+              "padding": "0",
+              "margin-bottom": "0",
+              "li": {
+                "padding": "0 1rem 1rem 1rem",
+                "p": {
+                  "margin": "0"
+                }
+              }
+            },
+            ".social-list": {
+              "padding-left": "0",
+              "margin-bottom": "0",
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap",
+              "-webkit-justify-content": "flex-end",
+              "justify-content": "flex-end",
+              "& when (@showCopyright)": {
+                "padding-bottom": "1rem"
+              },
+              ".soc-item": {
+                "margin": "0 .5rem"
+              },
+              "a": {
+                "margin": "0",
+                "opacity": ".5",
+                "-webkit-transition": ".2s linear",
+                "transition": ".2s linear",
+                "&:hover": {
+                  "opacity": "1"
+                },
+                ".mbr-iconfont": {
+                  "color": "@iconsColor"
+                }
+              },
+              "@media (max-width: 767px)": {
+                "-webkit-justify-content": "center",
+                "justify-content": "center"
+              }
+            },
+            ".row-copiright": {
+              "word-break": "break-word",
+              "width": "100%",
+              "p": {
+                "width": "100%",
+                "padding": "0",
+                "margin": "0"
+              }
+            },
+            ".iconfont-wrapper": {
+              "display": "inline-block",
+              "width": "~\"@{iconsSize}rem\"",
+              "height": "~\"@{iconsSize}rem\"",
+              "span.mbr-iconfont": {
+                "font-size": "~\"@{iconsSize}rem\""
+              }
+            },
+            "foot-menu-item": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "footer4",
+          "_customHTML": "<section class=\"footer4\" group=\"Footers\" plugins=\"amp-main\" global>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"8\" step=\"0.2\" value=\"2\" condition=\"socialItems > 0\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#efefef\" condition=\"socialItems > 0\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"http://5starlimobusrentals.com\" target=\"_blank\">\n                        About us\n                    </a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"page1.html\" target=\"_blank\">\n                        Services\n                    </a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"#\" target=\"_blank\">Get In Touch</a>\n                    </li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"http://5starlimobusrentals.com\" target=\"_blank\">\n                        Careers\n                    </a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"#\" target=\"_blank\">Work</a>\n                    </li>\n                </ul>\n            </div>\n            <div class=\"mbr-row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"fa fa-twitter mbr-iconfont\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/5starlimobusrentals\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"mbr-iconfont fa-facebook-f fa\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"fa fa-youtube-play mbr-iconfont\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://squareup.com/store/5-star-limo-bus-rentals-llc/\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"mbr-iconfont mbri-cart-add\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"fa fa-google-plus mbr-iconfont\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.behance.net/limoguy201a84f\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"mbr-iconfont fa-behance fa\"></span>\n                        </a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"mbr-row row-copiright\" mbr-if=\"showCopyright\">\n                <p class=\"mbr-text mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">@ 5 Star Limo Party Bus Rentals</p>\n            </div>\n    </div>\n</section>",
+          "_cid": "rcCqOV4bDK",
+          "_anchor": "footer4-3",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Trolley Rentals Wedding ",
+        "order": 1,
+        "meta_descr": "Trolley RENTAL CHICAGO WEDDINGS / PROMS / SPORTING EVENTS / CONCERTS / WINE TOURS WE WOULD LOVE TO SPEAK WITH YOU rent 25 passenger\n",
+        "header_custom": "<link rel=\"author\" href=\"https://plus.google.com/u/1/108241847389799473913\" />\n<link rel=\"publisher\" href=\"https://twitter.com/5starlimo4u\" />\n<meta name=\"description\"  content=\"5 star limo Party Bus Rentals and Trolleys. Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n\n<meta name=\"keywords\"  content=\"party bus rental,wedding limo bus rental,chicago michigan wine tours,chicago notre dame tailgates,prom party bus rental,rent a,\" />\n<meta name=\"msvalidate.01\" content=\"36ec1b54e1bf42f1871a9e4173fe1414\" />\n<meta name=\"p:domain_verify\" content=\"AUrPLdYeiXzJxx3XVN5J5e-2_-zHFPv1VePQ5stEg2Mg7ABH7AAAAAA\" />\n<script type=\"application/ld+json\">\n        {\n          \"@context\": \"http://schema.org\",\n          \"@type\": \"WebSite\",\t\t  \"name\": \"5 Star Limo Party Bus Rental Chicago Trolley \",        \"potentialAction\": {\n          \"@type\": \"SearchAction\",\n          \"target\": \"http://5starlimobusrentals.com/?s={search_term}\",\n          \"query-input\": \"required name=search_term\"\n        },\t\t  \"url\": \"http://5starlimobusrentals.com/\"\n        }\n</script>\n\n<meta name=\"geo.region\" content=\"US-IL\" />\n<meta name=\"geo.placename\" content=\"Plainfield\" />\n<meta name=\"geo.position\" content=\"41.575934;-88.243443\" />\n<meta name=\"ICBM\" content=\"41.575934, -88.243443\" />\n<link rel=\"canonical\" href=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:title\" content=\"Wedding Limo Party Bus Service Chicago Trolley Cheap Limo Rental\" />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:url\" content=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2017/11/5star-wedding-party-bus.jpg\" />\n<meta property=\"og:site_name\" content=\"5 Star Limo Party Bus Rental Chicago Trolley\" />\n<meta property=\"fb:admins\" content=\"51857373\" />\n<meta property=\"fb:app_id\" content=\"1443479255772211\" />\n<meta property=\"og:description\" content=\"5 star limo Party Bus Rentals and Trolleys. Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"Twitter.com/5starlimo4u\" />\n<meta name=\"twitter:creator\" content=\"@5starlimo4u\" />\n<meta name=\"twitter:domain\" content=\"twitter/5starlimo4u\" />\n<meta name=\"twitter:title\" content=\"Wedding Limo Party Bus Service Chicago Trolley Cheap Limo Rental\" />\n<meta name=\"twitter:description\" content=\"5 star limo Party Bus Rentals and Trolleys. Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n<meta name=\"twitter:image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2018/12/25-passenger-party-bus-inside.jpg\" />\n<meta itemprop=\"image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2017/11/5star-wedding-party-bus.jpg\" />\n<script type=\"application/ld+json\">\n{ \"@context\" : \"http://schema.org\",\n  \"@type\" : \"Organization\",\n  \"name\" : \"5 STAR LIMO BUS RENTAL \",\n  \"url\" : \"http://5starlimobusrentals.com\",\n  \"sameAs\" : [\"https://www.facebook.com/5tarlimobusrentals/\"]\n}\n</script>\n\t\t\t<script type=\"text/javascript\" >\n\t\t\t\twindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\n\t\t\t\tga('create', 'UA-106846489-1', { 'cookieDomain': '5starlimobus','allowLinker': true } );\n\t\t\t\t// Plugins\n\t\t\t\tga('require', 'linker');ga('linker:autoLink', ['www.5starbusrentals.com', 'chicagobusrentals.net', 'partybusrentchicago.com', '5tarlimos.com', 'buslimorental.com', 'napervillelimorentals.com', '5tarlimobusrentals.com'] );ga('require', 'ec');ga('require', 'linkid', 'linkid.js');ga('set', 'anonymizeIp', true);ga('require', 'outboundLinkTracker');\n\t\t\t\tga('send', 'pageview');\n\t\t\t</script>\n\t\t\t<script async src=\"https://www.google-analytics.com/analytics.js\"></script>\n\t\t\t<script async src=\"http://5starlimobusrentals.com/wp-content/plugins/all-in-one-seo-pack/public/js/vendor/autotrack.js\"></script>\n\t\t\t\t\t<!-- /all in one seo pack -->\n\n<!-- This site is optimized with the Yoast SEO Premium plugin v9.6.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"5 star limo Party Bus Rentals and Trolleys. Wedding Limo party Bus Shuttle Service Airport. Prom Kids Party Bus Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\"/>\n<link rel=\"canonical\" href=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:title\" content=\"Wedding Party Bus Service Chicago Trolley Cheap Limo Rentall wine tours %\" />\n<meta property=\"og:description\" content=\"party bus rental, wedding limo bus rental, chicago michigan wine tours, Notre Dame Tailgate, Prom Party Bus Rental, Party Limo Rental, Trolley Rental Chicago, Cheap Party Bus Rental Chicago Chicago Suburbs. Plainfield Party Bus Rental, Tinley park Limo Rental\" />\n<meta property=\"og:url\" content=\"http://5starlimobusrentals.com/\" />\n<meta property=\"og:site_name\" content=\"Party Bus Rental Chicago Wedding Transportation Trolley\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:description\" content=\"5 star limo Party Bus Rentals and Trolleys. Wedding Limo party Bus Shuttle Service Airport. Prom Kids Party Bus Rentals/ Chicago Notre Dame Tailgates Michigan Wine Tours Party Bus Limo Bus Bus with Bathroom Chicago Bus Rentals\" />\n<meta name=\"twitter:title\" content=\"Wedding Party Bus Service Chicago Trolley Cheap Limo Rentall wine tours %\" />\n<meta name=\"twitter:image\" content=\"http://5starlimobusrentals.com/wp-content/uploads/2014/07/xwedding-5starlimobusrentals-limo-wedding-wire.png.pagespeed.ic_.XezrTcr2uK.png\" />\n<meta name=\"twitter:creator\" content=\"@5starlimo4u\" />\n<script type='application/ld+json'>{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"http://5starlimobusrentals.com/#website\",\"url\":\"http://5starlimobusrentals.com/\",\"name\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"http://5starlimobusrentals.com/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}</script>\n<script type='application/ld+json'>{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"url\":\"http://5starlimobusrentals.com/\",\"sameAs\":[],\"@id\":\"http://5starlimobusrentals.com/#organization\",\"name\":\"5 star limo bus rentals\",\"logo\":\"\"}</script>\n<!-- / Yoast SEO Premium plugin. -->\n\n<link rel='dns-prefetch' href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//s0.wp.com' />\n<link rel='dns-prefetch' href='//p.jwpcdn.com' />\n<link rel='dns-prefetch' href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//s.w.org' />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Party Bus Rental Chicago Wedding Transportation Trolley &raquo; Feed\" href=\"http://5starlimobusrentals.com/feed\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Party Bus Rental Chicago Wedding Transportation Trolley &raquo; Comments Feed\" href=\"http://5starlimobusrentals.com/comments/feed\" />\n\n<!-- Google Tag Manager for WordPress by gtm4wp.com -->\n<script data-cfasync=\"false\" type=\"text/javascript\">//<![CDATA[\n\tdataLayer.push({\"siteID\":\"1\",\"siteName\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"visitorLoginState\":\"logged-in\",\"visitorIP\":\"10.26.52.198\",\"pageTitle\":\"Wedding Party Bus Service Chicago Trolley Cheap Limo Rentall wine tours %\",\"pagePostType\":\"frontpage\",\"pagePostType2\":\"single-page\",\"pagePostDate\":\"July 20, 2018\",\"pagePostDateYear\":\"2018\",\"pagePostDateMonth\":\"07\",\"pagePostDateDay\":\"20\",\"browserName\":\"Chrome\",\"browserVersion\":\"72.0.3626.109\",\"browserEngineName\":\"Blink\",\"browserEngineVersion\":\"\",\"osName\":\"OS X\",\"osVersion\":\"10.14.3\",\"deviceType\":\"desktop\",\"deviceManufacturer\":\"Apple\",\"deviceModel\":\"Macintosh\",\"gtm.whitelist\":[\"d\",\"jsm\",\"c\",\"k\",\"e\",\"j\",\"v\",\"r\",\"f\",\"u\",\"v\"],\"gtm.blacklist\":[\"mpm\",\"m6d\",\"tc\"]});//]]>\n</script>\n<script data-cfasync=\"false\">//<![CDATA[\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W4HZ94R');//]]>\n</script>\n<!-- End Google Tag Manager -->\n<link rel='https://api.w.org/' href='http://5starlimobusrentals.com/wp-json/' />\n<link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"http://5starlimobusrentals.com/xmlrpc.php?rsd\" />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"http://5starlimobusrentals.com/wp-includes/wlwmanifest.xml\" /> \n<meta name=\"generator\" content=\"WordPress 5.0.3\" />\n<link rel='shortlink' href='https://wp.me/P9nYqR-5a' />\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"http://5starlimobusrentals.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2F5starlimobusrentals.com%2F\" />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"http://5starlimobusrentals.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2F5starlimobusrentals.com%2F&#038;format=xml\" />\n<script type=\"application/ld+json\">[{\"@context\":\"http:\\/\\/schema.org\\/\",\"@type\":\"WPHeader\",\"url\":\"http:\\/\\/5starlimobusrentals.com\",\"headline\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"description\":\"Weddings Michigan Wine Tours Notre Dame Tailgates 5 Star Service\"},{\"@context\":\"http:\\/\\/schema.org\\/\",\"@type\":\"WPFooter\",\"url\":\"http:\\/\\/5starlimobusrentals.com\",\"headline\":\"Party Bus Rental Chicago Wedding Transportation Trolley\",\"description\":\"Weddings Michigan Wine Tours Notre Dame Tailgates 5 Star Service\",\"copyrightYear\":\"2018\"}]</script>\n\n\n\n<!-- This site is optimized with the Schema plugin v1.7.4 - https://schema.press -->\n<script type=\"application/ld+json\">{\"@context\":\"http:\\/\\/schema.org\",\"@type\":\"Organization\",\"@id\":\"#organization\",\"name\":\"5 star Limo Bus Rentals Party Bus Rentals &amp; Trolley\",\"url\":\"http:\\/\\/5starlimobusrentals.com\\/\",\"logo\":\"http:\\/\\/5starlimobusrentals.com\\/wp-content\\/uploads\\/2018\\/05\\/5-star-limo225-big-logo.png\",\"contactPoint\":{\"@type\":\"ContactPoint\",\"telephone\":\"708-272-7188\",\"url\":\"Https:\\/\\/www.5starbusrentals.com\\/contact\",\"contactType\":\"customer support\"},\"sameAs\":[\"https:\\/\\/plus.google.com\\/113616506143623122445\",\"https:\\/\\/www.facebook.com\\/5tarlimobusrentals\\/\",\"Https:\\/\\/Twitter.com\\/5starlimo4u\",\"Https:\\/\\/instagram.com\\/5starlimorentals\",\"Http:\\/\\/Pinterest.com\\/Chicagolandbus\"]}</script>\n\n\t<style type=\"text/css\">\n\t\t/* admin bar */\n\t\t.schema_google_developers a {\n\t\t\tpadding-left:30px !important;\n\t\t\tbackground:\ttransparent url('http://5starlimobusrentals.com/wp-content/plugins/schema/assets/images/admin-bar/google-developers.png') 8px 50% no-repeat !important;\n\t\t}\n\t\t.schema_google_developers a:hover {\n\t\t\tbackground:\ttransparent url('http://5starlimobusrentals.com/wp-content/plugins/schema/assets/images/admin-bar/google-developers-hover.png') 8px 50% no-repeat !important;\n\t\t}\n\t</style>\n<script type=\"text/javascript\">jwplayer.defaults = { \"ph\": 2 };</script>\n            <script type=\"text/javascript\">\n            if (typeof(jwp6AddLoadEvent) == 'undefined') {\n                function jwp6AddLoadEvent(func) {\n                    var oldonload = window.onload;\n                    if (typeof window.onload != 'function') {\n                        window.onload = func;\n                    } else {\n                        window.onload = function() {\n                            if (oldonload) {\n                                oldonload();\n                            }\n                            func();\n                        }\n                    }\n                }\n            }\n            </script>"
+      },
+      "components": [
+        {
+          "_styles": {
+            "amp-sidebar": {
+              "min-width": "260px!important",
+              "z-index": "1050!important",
+              "background-color": "@menuBgColor"
+            },
+            "amp-sidebar.open:after": {
+              "content": "''",
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "bottom": "0",
+              "right": "0",
+              "background-color": "red"
+            },
+            ".open": {
+              "-webkit-transform": "translateX(0%) !important",
+              "transform": "translateX(0%) !important",
+              "display": "block!important"
+            },
+            ".builder-sidebar": {
+              "background-color": "@menuBgColor",
+              "position": "relative",
+              "min-height": "100vh",
+              "z-index": "1030",
+              "padding": "1rem 2rem",
+              "max-width": "20rem"
+            },
+            ".headerbar": {
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "padding": ".5rem 1rem",
+              "min-height": "70px",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "background": "@menuBgColor",
+              "&.sticky-nav": {
+                "position": "fixed",
+                "z-index": "1000",
+                "width": "100%"
+              }
+            },
+            "button.sticky-but": {
+              "position": "fixed"
+            },
+            ".brand": {
+              "display": "flex",
+              "-webkit-align-items": "center",
+              "align-items": "center",
+              "-webkit-align-self": "flex-start",
+              "align-self": "flex-start",
+              "padding-right": "30px",
+              "p": {
+                "margin": "0",
+                "padding": "0"
+              }
+            },
+            ".brand-name": {
+              "color": "#ffffff"
+            },
+            ".sidebar": {
+              "padding": "1rem 0",
+              "margin": "0"
+            },
+            ".sidebar > li": {
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column"
+            },
+            ".sidebar a": {
+              "display": "block",
+              "text-decoration": "none",
+              "margin-bottom": "10px"
+            },
+            ".close-sidebar": {
+              "width": "30px",
+              "height": "30px",
+              "position": "relative",
+              "cursor": "pointer",
+              "background-color": "transparent",
+              "border": "none",
+              "&:focus": {
+                "outline": "2px auto @primaryColor"
+              },
+              "span": {
+                "position": "absolute",
+                "left": "0",
+                "top": "50%",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "-webkit-transform": "rotate(45deg)",
+                  "transform": "rotate(45deg)"
+                },
+                "&:nth-child(2)": {
+                  "-webkit-transform": "rotate(-45deg)",
+                  "transform": "rotate(-45deg)"
+                }
+              }
+            },
+            "@media (min-width: 992px)": {
+              "& .brand-name": {
+                "min-width": "8rem"
+              },
+              "& .builder-sidebar": {
+                "margin-left": "auto",
+                ".sidebar li": {
+                  "-webkit-flex-direction": "row",
+                  "flex-direction": "row",
+                  "-webkit-flex-wrap": "wrap",
+                  "flex-wrap": "wrap",
+                  "a": {
+                    "padding": ".5rem",
+                    "margin": "0"
+                  }
+                }
+              },
+              "& .builder-overlay": {
+                "display": "none !important"
+              }
+            },
+            ".hamburger": {
+              "position": "absolute",
+              "top": "25px",
+              "right": "20px",
+              "margin-left": "auto",
+              "width": "30px",
+              "height": "20px",
+              "background": "none",
+              "border": "none",
+              "cursor": "pointer",
+              "z-index": "1000",
+              "& when (@showLogo)": {
+                "@media (min-width: 768px)": {
+                  "top": "calc(0.5rem ~\"+\" @logoHeight ~\"*\" 0.5px ~\"-\" 10px)"
+                }
+              },
+              "&:focus": {
+                "outline": "none"
+              },
+              "span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "amp-img": {
+              "margin-right": "1rem",
+              "height": "~\"@{logoHeight}px\"",
+              "width": "~\"@{logoWidth}px\"",
+              "@media (max-width: 768px)": {
+                "max-height": "55px",
+                "max-width": "55px"
+              },
+              "img": {
+                "height": "100%",
+                "object-fit": "cover",
+                "object-position": "center"
+              }
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"amp-main,amp-sidebar\" global=\"\" once=\"menu\" always-top=\"\" position-absolute=\"\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Logo Height\" inline=\"\" name=\"logoHeight\" min=\"55\" max=\"120\" value=\"55\" step=\"1\">\n        <input type=\"range\" title=\"Logo Width\" inline=\"\" name=\"logoWidth\" min=\"55\" max=\"120\" value=\"55\" step=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Links\" name=\"showLinks\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected=\"\">Right</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#15181b\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#d400fd\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"headerbar\" mbr-class=\"{'sticky-nav':sticky}\">\n      <div class=\"brand\">\n          <span mbr-if=\"showLogo\" class=\"brand-logo\">\n              <amp-img src=\"@PROJECT_PATH@/assets/images/30715193-2088637658022385-2422358453337899885-n-110x110.jpg\" layout=\"responsive\" width=\"55\" height=\"55\" alt=\"5 star limo bus rentals logo\" class=\"mobirise-loader\">\n                  <div placeholder=\"\" class=\"placeholder\"></div>\n                  <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/30715193-2088637658022385-2422358453337899885-n-110x110.jpg\" alt=\"5 star limo bus rentals logo\" title=\"Logo Header\">\n              </amp-img>\n          </span>\n          <p mbr-text=\"\" mbr-theme-style=\"display-2\" mbr-if=\"showBrand\" class=\"brand-name mbr-fonts-style\" data-app-selector=\".brand-name\">5 Star Limo Bus Rentals &amp; Trolley&nbsp;</p>\n      </div>\n    </nav>\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n\n            <div mbr-menu=\"\" class=\"sidebar mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showLinks\">\n              <a class=\"text-white\" href=\"https://mobirise.com\">Home</a>\n              <a class=\"text-white\" href=\"https://mobirise.com\">Services</a>\n              <a class=\"text-white\" href=\"https://mobirise.com\">About Us</a>\n            </div>\n            \n            <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn align-center\"><a class=\"btn btn-sm btn-primary\" href=\"index.html\" data-app-placeholder=\"Type Text\">Home</a> <a class=\"btn btn-sm btn-primary\" href=\"https://www.5starbusrentals.com\" data-app-placeholder=\"Type Text\" target=\"_blank\">Main Site</a></div>\n        </div>\n    </amp-sidebar>\n    <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\">\n        <span></span>\n        <span></span>\n        <span></span>\n        <span></span>\n    </button>\n</section>",
+          "_cid": "rck72F7Tx6",
+          "_anchor": "menu1-v",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "header1",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img1.wsimg-2-800x679.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#eaeaea\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h1 class=\"mbr-section-title mbr-fonts-style align-center mbr-bold\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n            Trolley Rentals</h1>\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style align-center\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\" mbr-if=\"showSubTitle\">\n            AMP PROVIDES A GREAT USER EXPERIENCE ACROSS MANY PLATFORMS\n        </h3>\n        <p class=\"mbr-fonts-style mbr-text align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-if=\"showText\">\n            Book your Trolley Today&nbsp;</p>\n        <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"http://5starlimobusrentals.com/chicago-trolley-rentals\" data-app-placeholder=\"Type Text\">\n                LEARN MORE\n            </a></div>\n    </div>\n\n</section>",
+          "_cid": "riQn94KPox",
+          "_anchor": "header1-x",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card": {
+              "margin-bottom": "20px",
+              "position": "relative",
+              "display": "flex",
+              "-ms-flex-direction": "column",
+              "-webkit-flex-direction": "column",
+              "flex-direction": "column",
+              "min-width": "0",
+              "word-wrap": "break-word",
+              "background-clip": "border-box",
+              "border-radius": ".25rem",
+              "width": "100%",
+              "min-height": "1px"
+            },
+            ".card-title": {
+              "margin": "0"
+            },
+            ".card-box": {
+              "padding-top": "2rem"
+            },
+            "amp-img": {
+              "width": "100%"
+            },
+            ".mbr-text": {
+              "text-align": "left"
+            }
+          },
+          "_name": "features1",
+          "_customHTML": "<section class=\"features1 mbr-section\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/5starbusrentals-trolley-chicago-1080x810.png\" layout=\"responsive\" width=\"540\" height=\"405\" alt=\"Trolley Rental \" class=\"mobirise-loader\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5starbusrentals-trolley-chicago-1080x810.png\" alt=\"Trolley Rental \" title=\"Chicago Trolley Rentals\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            One of Kind</h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            This trolley is unlike any other in Chicago. It's vintage in appearance but modern in function. The exterior is the classic Chicago trolley look, while the inside boasts modern amenities such as leather perimeter seating, upgraded sound system, and HDTVs. Our upgraded AC / Heating systems will keep you comfortable no matter the temperature outside. It's the perfect trolley for a Chicago wedding, bar crawl, or bachelor / bachelorette party.&nbsp;Call us today to book a trolley for your Chicago event.\n                        </p>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <amp-img src=\"@PROJECT_PATH@/assets/images/5starbusrentals-inside-trolley-chicago-1080x810.png\" layout=\"responsive\" height=\"405\" width=\"540\" alt=\"trolley outside front\" class=\"mobirise-loader\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/5starbusrentals-inside-trolley-chicago-1080x810.png\" alt=\"trolley outside front\" title=\"Chicago Trolley\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style align-left\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Flexibility and Results\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Limo style leather wrap around seating<br>Premium sound, with phone hookup (bluetooth and wired)<br>High Definition Smart TVs<br>User controlled LED color lighting<br>Upgraded A/C and Heating systems – guaranteed comfort no matter the weather!</p>\n                    </div>\n                </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_cid": "riQrPuDvXj",
+          "_anchor": "features1-y",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "-webkit-justify-content": "center",
+              "justify-content": "center"
+            },
+            ".foot-menu": {
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-justify-content": "center",
+              "justify-content": "center",
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap",
+              "padding": "0",
+              "margin-bottom": "0",
+              "li": {
+                "padding": "0 1rem 1rem 1rem",
+                "p": {
+                  "margin": "0"
+                }
+              }
+            },
+            ".social-list": {
+              "padding-left": "0",
+              "margin-bottom": "0",
+              "list-style": "none",
+              "display": "flex",
+              "-webkit-flex-wrap": "wrap",
+              "flex-wrap": "wrap",
+              "-webkit-justify-content": "flex-end",
+              "justify-content": "flex-end",
+              "& when (@showCopyright)": {
+                "padding-bottom": "1rem"
+              },
+              ".soc-item": {
+                "margin": "0 .5rem"
+              },
+              "a": {
+                "margin": "0",
+                "opacity": ".5",
+                "-webkit-transition": ".2s linear",
+                "transition": ".2s linear",
+                "&:hover": {
+                  "opacity": "1"
+                },
+                ".mbr-iconfont": {
+                  "color": "@iconsColor"
+                }
+              },
+              "@media (max-width: 767px)": {
+                "-webkit-justify-content": "center",
+                "justify-content": "center"
+              }
+            },
+            ".row-copiright": {
+              "word-break": "break-word",
+              "width": "100%",
+              "p": {
+                "width": "100%",
+                "padding": "0",
+                "margin": "0"
+              }
+            },
+            ".iconfont-wrapper": {
+              "display": "inline-block",
+              "width": "~\"@{iconsSize}rem\"",
+              "height": "~\"@{iconsSize}rem\"",
+              "span.mbr-iconfont": {
+                "font-size": "~\"@{iconsSize}rem\""
+              }
+            },
+            "foot-menu-item": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "footer4",
+          "_customHTML": "<section class=\"footer4\" group=\"Footers\" plugins=\"amp-main\" global>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"8\" step=\"0.2\" value=\"2\" condition=\"socialItems > 0\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#efefef\" condition=\"socialItems > 0\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"http://5starlimobusrentals.com\" target=\"_blank\">\n                        About us\n                    </a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"page1.html\" target=\"_blank\">\n                        Services\n                    </a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"#\" target=\"_blank\">Get In Touch</a>\n                    </li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\"><a href=\"http://5starlimobusrentals.com\" target=\"_blank\">\n                        Careers\n                    </a></li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">\n                        <a class=\"text-white mbr-bold\" href=\"#\" target=\"_blank\">Work</a>\n                    </li>\n                </ul>\n            </div>\n            <div class=\"mbr-row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"fa fa-twitter mbr-iconfont\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/5starlimobusrentals\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"mbr-iconfont fa-facebook-f fa\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"fa fa-youtube-play mbr-iconfont\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://squareup.com/store/5-star-limo-bus-rentals-llc/\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"mbr-iconfont mbri-cart-add\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"fa fa-google-plus mbr-iconfont\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.behance.net/limoguy201a84f\" target=\"_blank\" class=\"iconfont-wrapper\">\n                            <span mbr-icon class=\"mbr-iconfont fa-behance fa\"></span>\n                        </a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"mbr-row row-copiright\" mbr-if=\"showCopyright\">\n                <p class=\"mbr-text mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">@ 5 Star Limo Party Bus Rentals</p>\n            </div>\n    </div>\n</section>",
+          "_cid": "rcCqOV4bDK",
+          "_anchor": "footer4-w",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    }
+  }
+}

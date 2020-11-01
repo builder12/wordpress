@@ -1,0 +1,26 @@
+{Element.prototype.$ = function (selector) { // Works for HTML, XUL, and plain XML
+    return this.querySelector(selector);
+};
+
+HTML example:
+<h1><a>Test!<a/></h1>
+<script>
+Element.prototype.$ = function (selector) {
+    return this.querySelector(selector); 
+};
+alert(document.getElementsByTagName('h1')[0].$('a').nodeName); // 'A'
+
+XUL example:
+<hbox><vbox/></hbox>
+<script type="text/javascript"><![CDATA[
+Element.prototype.$ = function (selector) {
+    return this.querySelector(selector); 
+};
+var XULNS = 'http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul';
+alert(document.getElementsByTagNameNS(XULNS, 'hbox')[0].$('vbox').nodeName); // vbox
+]]></script>
+
+XML example:
+<foo xmlns="someNS"><bar/></foo> in document earlier
+var foo = document.getElementsByTagNameNS('someNS', 'foo')[0];
+alert(foo.$('bar'));}

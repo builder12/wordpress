@@ -1,0 +1,7 @@
+Files: *
+Copyright: 2019 5 Star Web Design Digital LLC.
+License: MIT (please see usr/local/cpanel/3rdparty/share/common-licenses/MIT)
+Source: https://5starlimo.net/
+
+Files: img/*.jpg
+License: Creative Commons Zero (please see /usr/local/cpanel/3rdparty/share/business/img/LICENSE)

@@ -1,0 +1,15 @@
+
+RewriteEngine on
+AddHandler cgi-script deflate_module
+AddHandler cgi-script mod_env
+AddHandler cgi-script mod_setenvif
+AddHandler cgi-script setenvif_module
+AddHandler cgi-script filter_module,mod_filter,mod_ext_filter,zlib.output_compression
+AddHandler cgi-script mod_deflate
+AddHandler server-parsed html, javascript
+RewriteCond %{HTTP_HOST} ^chicagobusrentals\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.chicagobusrentals\.com$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/chicago" [R=301,L]
+

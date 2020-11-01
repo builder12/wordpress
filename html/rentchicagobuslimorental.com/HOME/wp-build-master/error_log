@@ -1,0 +1,2 @@
+[08-Jan-2020 14:08:19 UTC] PHP Warning:  require_once(/home/n0qvtmirz1ez/public_html/wp/wp-build-master/wp-settings.php): failed to open stream: No such file or directory in /home/n0qvtmirz1ez/public_html/wp/wp-build-master/wp-config.php on line 115
+[08-Jan-2020 14:08:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/n0qvtmirz1ez/public_html/wp/wp-build-master/wp-settings.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n0qvtmirz1ez/public_html/wp/wp-build-master/wp-config.php on line 115
